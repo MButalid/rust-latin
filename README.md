@@ -9,6 +9,8 @@ This repository contains my attempt at the Rust exercises from Ferrous Systems. 
 
  - If the word does not begin with a vowel add suffix “rs” to the word.
 
+ - The function returns a String containing the modified words.
+
 ## Exercise reference
 
 [Ferrous Systems Rust Exercises](https://rust-exercises.ferrous-systems.com/)
